@@ -1,5 +1,5 @@
-- url: https://filedn.eu/l4LseFPdIOWBzJ1oyqSOldk/stocks/index.html
-  selector: 'div#sheets-viewport'
+- url: https://filedn.eu/l4LseFPdIOWBzJ1oyqSOldk/stocks
+  selector: 'div#tbody'
   output: shot.png
   width: 428
   height: 599
