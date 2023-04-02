@@ -1,4 +1,4 @@
-- url: https://filedn.eu/l4LseFPdIOWBzJ1oyqSOldk/stocks
+- url: https://filedn.eu/l4LseFPdIOWBzJ1oyqSOldk/stocks/index.html
   selector: 'div#sheets-viewport'
   output: shot.png
   width: 428
